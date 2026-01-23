@@ -1,10 +1,4 @@
-# fidelity-ai-financial-advisor-rag
-For your GitHub repository, you need a **README** that doesn't just show your code, but also shows your **engineering mindset**. Since you are applying for a Senior role, LinkedIn wants to see that you can evaluate different tools and pick the best one for the business.
-
-Here is the complete, professional content for your `README.md`. It uses simple, direct English and incorporates all 8 of your experiments into a powerful comparison table.
-
----
-
+ 
 # Fidelity AI Financial Advisor: A Comparative RAG Benchmark
 
 This project is a production-grade AI Agent designed to act as a **Fidelity Financial Advisor**. It specialized in answering complex questions about retirement planning and mutual funds by retrieving data from official Fidelity documentation and web sources.
