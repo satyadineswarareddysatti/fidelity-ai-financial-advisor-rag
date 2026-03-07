@@ -68,7 +68,7 @@ For clients requiring strict data privacy, **Experiment 1 (Ollama)** proved that
 
 ### 🚀 Getting Started
 
-1. **Clone the repo:** `git clone https://github.com/your-username/fidelity-rag-advisor`
+1. **Clone the repo:** `git clone https://github.com/satyadineswarareddysatti/fidelity-ai-financial-advisor-rag`
 2. **Install requirements:** `pip install -r requirements.txt`
 3. **Environment Variables:** Create a `.env` file and add your `OPENAI_API_KEY` or `REPLICATE_API_TOKEN`.
 4. **Run:** Open `notebooks/03_openai_langchain_gpt4o_mini.ipynb` to see the recommended architecture.
