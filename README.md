@@ -9,6 +9,14 @@ In the financial sector, AI "hallucinations" are a major risk. A financial advis
 
 ---
 
+## Demo Questions
+
+Example queries the agent can answer:
+
+• “How should a 30-year-old invest for retirement using Fidelity funds?”
+• “What are the key risks of the FFFGX mutual fund?”
+• “Compare retirement strategies using tax-advantaged accounts.”
+
 ### 📊 8-Experiment Comparative Analysis
 
 I conducted 8 distinct experiments to baseline performance across different models (OpenAI, Llama 3, DeepSeek) and orchestration frameworks.
@@ -25,6 +33,15 @@ I conducted 8 distinct experiments to baseline performance across different mode
 | **08** | Replicate | DeepSeek-R1 | LlamaIndex | Best cost-performance for enterprise docs. |
 
 ---
+## Key Results
+
+• GPT-4o-mini produced the highest response accuracy with the lowest latency.
+
+• LangGraph control flow significantly reduced hallucinations by enforcing document relevance validation.
+
+• DeepSeek-R1 showed strong cost-performance potential for enterprise document analysis.
+
+• Local Llama-3 models via Ollama enabled fully offline financial advisory pipelines for privacy-sensitive deployments.
 
 ### 🧠 Key Engineering Insights
 
